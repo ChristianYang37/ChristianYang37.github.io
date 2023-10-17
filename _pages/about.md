@@ -16,11 +16,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am currently a third-year undergraduate student at School of Artificial Intelligence, Sun Yat-sen University, majoring in Artificial Intelligence. My research interests include but are not limited to attention computation theory, large language models, natural language process, and optimization.
+Hi, I am currently a third-year undergraduate student at Sun Yat-sen University, majoring in Artificial Intelligence. My research interests include but are not limited to attention computation theory, large language models, AI security, and optimization.
 
 # 📝 Publications / Preprints
 
 * Timothy Chu, Zhao Song, and **Chiwun Yang**. How to protect copyright data in optimization of large language models? *arXiv preprint arXiv:2308.12247*, 2023
+* Timothy Chu, Zhao Song, and **Chiwun Yang**. Fine-tune language models to approximate unbiased in-context learning. *arXiv preprint arXiv:2310.03331*, 2023
 
 # 📖 Educations
 

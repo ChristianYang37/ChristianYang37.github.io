@@ -26,7 +26,7 @@ Hi, I am currently a third-year undergraduate student at Sun Yat-sen University,
 * Yichuan Deng, Zhao Song, Shenghao Xie, and **Chiwun Yang**. Unmasking transformers: A theoretical approach to data recovery via attention weights. *arXiv preprint arXiv:2310.12462*, 2023
 * Chengyang Li, Zhao Song, Weixin Wang, and **Chiwun Yang**. A theoretical snsight into attack and defense of gradient leakage in transformer. *arXiv preprint arXiv:2311.13624*, 2023
 * Raghav Addanki, Chenyang Li, Zhao Song, and **Chiwun Yang**. One pass streaming algorithm for super long token attention approximation in sublinear space. *arXiv preprint arXiv:2311.14652*, 2023
-* Yichuan Deng, Zhao Song, and Chiwun Yang. Enhancing stochastic gradient descent: A unified framework and novel acceleration methods for faster convergence. *arXiv preprint arXiv:2402.01515*, 2024
+* Yichuan Deng, Zhao Song, and **Chiwun Yang**. Enhancing stochastic gradient descent: A unified framework and novel acceleration methods for faster convergence. *arXiv preprint arXiv:2402.01515*, 2024
 
 # 📖 Educations
 

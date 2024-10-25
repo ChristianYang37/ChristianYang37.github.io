@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am currently a third-year undergraduate student at Sun Yat-sen University, majoring in Artificial Intelligence. My research interests include but are not limited to attention computation theory, large language models, AI security, and optimization.
+Hi, I am currently a fourth-year undergraduate student at Sun Yat-sen University, majoring in Artificial Intelligence. My research interests include but are not limited to attention computation theory, large language models, AI security, and learning theory.
 
 # 📝 Publications / Preprints (Author names in alphabetical order)
 
@@ -28,7 +28,7 @@ Hi, I am currently a third-year undergraduate student at Sun Yat-sen University,
 * Raghav Addanki, Chenyang Li, Zhao Song, and **Chiwun Yang**. One pass streaming algorithm for super long token attention approximation in sublinear space. *arXiv preprint arXiv:2311.14652*, 2023
 * Yichuan Deng, Zhao Song, and **Chiwun Yang**. Enhancing stochastic gradient descent: A unified framework and novel acceleration methods for faster convergence. *arXiv preprint arXiv:2402.01515*, 2024
 * Yichuan Deng, Zhao Song, and **Chiwun Yang**. Attention is naturally sparse with gaussian distributed input. *arXiv preprint arXiv:2404.02690*, 2024
-* Jiuxiang Gu, Yingyu Liang, Zhenmei Shi, Zhao Song, and **Chiwun Yang**. Toward Infinite-Long Prefix in Transformer. *arXiv preprint arXiv:2406.14036*, 2024
+* Yingyu Liang, Zhenmei Shi, Zhao Song, and **Chiwun Yang**. Towards infinite-long prefix in transformer. *arXiv preprint arXiv:2406.14036*, 2024
 
 # 📖 Educations
 
@@ -36,4 +36,8 @@ Hi, I am currently a third-year undergraduate student at Sun Yat-sen University,
 
 # 💻 Work Experience
 
-- *2022.08 - 2024.02*, Research Assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en)
+- *2022.08 - 2024.02*, Research Assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en), advised by Dr. Nan Li
+- *2024.10 - current*, Research Intern, [NGai's Lab, HKU](https://www.eee.hku.hk/~nwong/), advised by Jing Xiong.
+
+# Service
+- ICLR 2025

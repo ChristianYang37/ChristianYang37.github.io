@@ -37,7 +37,8 @@ Hi, I am currently a fourth-year undergraduate student at Sun Yat-sen University
 # 💻 Work Experience
 
 - *2022.08 - 2024.02*, Research Assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en), advised by Dr. Nan Li
-- *2024.10 - current*, Research Intern, [NGai's Lab, HKU](https://www.eee.hku.hk/~nwong/), advised by Jing Xiong.
+- *2024.10 - current*, Research Intern, [NGai's Lab, The University of Hong Kong (HKU)](https://www.eee.hku.hk/~nwong/), advised by Jing Xiong.
 
-# Service
+# 📊 Service
+
 - ICLR 2025

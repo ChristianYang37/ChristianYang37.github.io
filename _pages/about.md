@@ -32,6 +32,7 @@ I am actively seeking a 25 Fall Ph.D. student position in the USA. Please email 
 * Yichuan Deng, Zhao Song, and **Chiwun Yang**. Attention is naturally sparse with gaussian distributed input. *arXiv preprint arXiv:2404.02690*, 2024
 * Yingyu Liang, Zhenmei Shi, Zhao Song, and **Chiwun Yang**. Towards infinite-long prefix in transformer. *arXiv preprint arXiv:2406.14036*, 2024
 * Majid Daliri, Zhao Song, and **Chiwun Yang**. Unloacking the theory behind scaling 1-bit neural networks. *arXiv preprint arXiv:2411.01663*, 2024
+* Yekun Ke, Yingyu Liang, Zhenmei Shi, Zhao Song, and **Chiwun Yang**. Curse of attention: A kernel-based perspective for why transformers fail to generalize on time series forecasting and beyond. *arXiv preprint arXiv:2412.xxxxx*, 2024 (To appear)
 
 # 📖 Educations
 

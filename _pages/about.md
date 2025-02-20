@@ -23,7 +23,7 @@ I am actively seeking a 25 Fall Ph.D. student position in the USA. Please email 
 # 📝 Publications / Preprints (Author names in alphabetical order)
 
 * Timothy Chu, Zhao Song, and **Chiwun Yang**. How to protect copyright data in optimization of large language models? **AAAI 2024 Poster**, *arXiv preprint arXiv:2308.12247*
-* Majid Daliri, Zhao Song, and **Chiwun Yang**. Unloacking the theory behind scaling 1-bit neural networks. **CPAL 2025 Poster**, *arXiv preprint arXiv:2411.01663*
+* Majid Daliri, Zhao Song, and **Chiwun Yang**. Unlocking the theory behind scaling 1-bit neural networks. **CPAL 2025 Poster**, *arXiv preprint arXiv:2411.01663*
 * Yekun Ke, Yingyu Liang, Zhenmei Shi, Zhao Song, and **Chiwun Yang**. Curse of attention: A kernel-based perspective for why transformers fail to generalize on time series forecasting and beyond. **CPAL 2025 Poster**, *arXiv preprint arXiv:2412.06061*
 * Timothy Chu, Zhao Song, and **Chiwun Yang**. Fine-tune language models to approximate unbiased in-context learning. *arXiv preprint arXiv:2310.03331*, 2023
 * Zhao Song and **Chiwun Yang**. An automatic learning rate schedule algorithm for achieving faster convergence and steeper descent. *arXiv preprint arXiv:2310.11291*, 2023
@@ -43,7 +43,7 @@ I am actively seeking a 25 Fall Ph.D. student position in the USA. Please email 
 # 💻 Research Experience
 
 - *2022.08 - 2024.02*, Research Assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en), advised by Dr. Nan Li
-- *2022.10 - current*, Research Intern, [Zhao's Lab](https://www.youtube.com/@zhaosong2031) advised by Zhao Song.
+- *2022.10 - current*, Research Intern, [Zhao's Lab](https://www.youtube.com/@zhaosong2031) advised by Dr. Zhao Song.
 - *2024.10 - current*, Research Intern, [NGai's Lab, The University of Hong Kong (HKU)](https://www.eee.hku.hk/~nwong/), advised by Jing Xiong.
 
 # 📊 Service

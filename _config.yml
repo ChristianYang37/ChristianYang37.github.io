@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chiwun Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "<font size=1, color=grey>*天将降大任于是人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾益其所不能*</font>"
+  bio              : "<em><font size=1, color=grey>天将降大任于是人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾益其所不能</font></em>"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 

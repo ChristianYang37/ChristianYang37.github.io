@@ -22,27 +22,28 @@ I am actively seeking a 25 Fall Ph.D. student position in the USA. Please email 
 
 # 📝 Publications / Selected Preprints
 
-\* denotes equal contribution alphabetical order
+\* denotes equal contribution in alphabetical order
 
 * Timothy Chu\*, Zhao Song\*, and **Chiwun Yang**\*. How to protect copyright data in optimization of large language models? **AAAI 2024 Poster**, *arXiv preprint arXiv:2308.12247*
+* Yingyu Liang\*, Zhenmei Shi\*, Zhao Song\*, and **Chiwun Yang**\*. Towards infinite-long prefix in transformer. **ICLR 2025 SCOPE Workshop Oral**， *arXiv preprint arXiv:2406.14036*
 * Majid Daliri\*, Zhao Song\*, and **Chiwun Yang**\*. Unlocking the theory behind scaling 1-bit neural networks. **CPAL 2025 Poster**, *arXiv preprint arXiv:2411.01663*
 * Yekun Ke\*, Yingyu Liang\*, Zhenmei Shi\*, Zhao Song\*, and **Chiwun Yang**\*. Curse of attention: A kernel-based perspective for why transformers fail to generalize on time series forecasting and beyond. **CPAL 2025 Poster**, *arXiv preprint arXiv:2412.06061*
 * Yichuan Deng\*, Zhao Song\*, Shenghao Xie\*, and **Chiwun Yang**\*. Unmasking transformers: A theoretical approach to data recovery via attention weights. *arXiv preprint arXiv:2310.12462*, 2023
-* Yichuan Deng\*, Zhao Song\*, Jing Xiong\*, and **Chiwun Yang**\*. How sparse attention approximate exact attention? Your attention is $n^C$-sparse. *arXiv preprint arXiv:2404.02690*, 2024
-* Yingyu Liang\*, Zhenmei Shi\*, Zhao Song\*, and **Chiwun Yang**\*. Towards infinite-long prefix in transformer. *arXiv preprint arXiv:2406.14036*, 2024
+* Yichuan Deng\*, Zhao Song\*, Jing Xiong\*, and **Chiwun Yang**\*. How sparse attention approximates exact attention? Your attention is $n^C$-sparse. *arXiv preprint arXiv:2404.02690*, 2024
 * Yang Cao\*, Zhao Song\*, and **Chiwun Yang**\*. Video latent flow matching: Optimal polynomial projections for video interpolation and extrapolation. *arXiv preprint arXiv:2502.00500*, 2025
 * Jing Xiong, Jianghan Shen, Chuanyang Zheng, Zhongwei Wan, Chenyang Zhao, **Chiwun Yang**, Fanghua Ye, Hongxia Yang, Lingpeng Kong, Ngai Wong. ParallelComp: Parallel long-context compressor for length extrapolation. *arXiv preprint arXiv:2502.14317*, 2025
-* Jiangxuan Long\*, Zhao Song\*, and **Chiwun Yang**\*. Theoretical foundation of flow-based time series generation: provable approximation, generalization, and efficiency. *arXiv preprint arXiv:2502.xxxxx*, 2025 (To appear)
+* Jiangxuan Long\*, Zhao Song\*, and **Chiwun Yang**\*. Theoretical foundation of flow-based time series generation: provable approximation, generalization, and efficiency. *arXiv preprint arXiv:2503.xxxxx*, 2025 (To appear)
+
 # 📖 Educations
 
 - *2021.09 - 2025.06*, School of Artificial Intelligence, Sun Yat-sen University.
 
 # 💻 Research Experience
 
-- *2022.08 - 2024.02*, Research Assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en), advised by Dr. Nan Li
+- *2022.08 - 2024.02*, Research Assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en), advised by Dr. Nan Li.
 - *2022.10 - current*, Research Intern, [Zhao's Lab](https://www.youtube.com/@zhaosong2031) advised by Dr. Zhao Song.
 - *2024.10 - current*, Research Intern, [NGai's Lab, The University of Hong Kong (HKU)](https://www.eee.hku.hk/~nwong/), advised by Jing Xiong.
 
 # 📊 Service
 
-- ICLR 2025, ICLR 2025 Workshop BuildingTrust
+- ICLR 2025, ICLR 2025 Workshop BuildingTrust, COLM 2025

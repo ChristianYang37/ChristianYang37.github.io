@@ -32,7 +32,7 @@ I am actively seeking a 25 Fall Ph.D. student position in the USA. Please email 
 * Yekun Ke\*, Yingyu Liang\*, Zhenmei Shi\*, Zhao Song\*, and **Chiwun Yang**\*. Curse of attention: A kernel-based perspective for why transformers fail to generalize on time series forecasting and beyond. **CPAL 2025 Poster**, *arXiv preprint arXiv:2412.06061*
 * Yichuan Deng\*, Zhao Song\*, Shenghao Xie\*, and **Chiwun Yang**\*. Unmasking transformers: A theoretical approach to data recovery via attention weights. *arXiv preprint arXiv:2310.12462*, 2023
 * Jing Xiong, Jianghan Shen, Chuanyang Zheng, Zhongwei Wan, Chenyang Zhao, **Chiwun Yang**, Fanghua Ye, Hongxia Yang, Lingpeng Kong, Ngai Wong. ParallelComp: Parallel long-context compressor for length extrapolation. *arXiv preprint arXiv:2502.14317*, 2025
-* Jiangxuan Long\*, Zhao Song\*, and **Chiwun Yang**\*. Theoretical foundation of flow-based time series generation: provable approximation, generalization, and efficiency. *arXiv preprint arXiv:2503.xxxxx*, 2025 (To appear)
+* Jiangxuan Long\*, Zhao Song\*, and **Chiwun Yang**\*. Theoretical foundation of flow-based time series generation: provable approximation, generalization, and efficiency. *arXiv preprint arXiv:2503.14076*, 2025
 
 # 📖 Educations
 
@@ -41,7 +41,7 @@ I am actively seeking a 25 Fall Ph.D. student position in the USA. Please email 
 # 💻 Research Experience
 
 - *2022.08 - 2024.02*, Research Assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en), advised by Dr. Nan Li.
-- *2022.10 - 2024.03*, Research Intern, [Zhao's Lab](https://www.youtube.com/@zhaosong2031) advised by Dr. Zhao Song.
+- *2022.10 - 2025.03*, Research Intern, [Zhao's Lab](https://www.youtube.com/@zhaosong2031) advised by Dr. Zhao Song.
 - *2024.10 - current*, Research Intern, [NGai's Lab, The University of Hong Kong (HKU)](https://www.eee.hku.hk/~nwong/), advised by Jing Xiong.
 
 # 📊 Service

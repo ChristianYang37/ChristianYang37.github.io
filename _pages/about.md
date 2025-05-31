@@ -16,9 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am currently a fourth-year undergraduate student at Sun Yat-sen University, majoring in Artificial Intelligence. My research interests include but are not limited to large language models, AI security, and learning theory.
-
-I am actively seeking a 25 Fall Ph.D. student position in the USA. Please email me if you are interested in me.
+Hi, I am currently a fourth-year undergraduate student at Sun Yat-sen University, majoring in Artificial Intelligence. My research interests include but are not limited to Large Language Models, AI Security, and Deep Learning Theory.
 
 # 📝 Publications / Selected Preprints
 
@@ -31,19 +29,20 @@ I am actively seeking a 25 Fall Ph.D. student position in the USA. Please email 
 * Majid Daliri\*, Zhao Song\*, and **Chiwun Yang**\*. Unlocking the theory behind scaling 1-bit neural networks. **CPAL 2025 Poster**, *arXiv preprint arXiv:2411.01663*
 * Yekun Ke\*, Yingyu Liang\*, Zhenmei Shi\*, Zhao Song\*, and **Chiwun Yang**\*. Curse of attention: A kernel-based perspective for why transformers fail to generalize on time series forecasting and beyond. **CPAL 2025 Poster**, *arXiv preprint arXiv:2412.06061*
 * Yichuan Deng\*, Zhao Song\*, Shenghao Xie\*, and **Chiwun Yang**\*. Unmasking transformers: A theoretical approach to data recovery via attention weights. *arXiv preprint arXiv:2310.12462*, 2023
-* Jing Xiong, Jianghan Shen, Chuanyang Zheng, Zhongwei Wan, Chenyang Zhao, **Chiwun Yang**, Fanghua Ye, Hongxia Yang, Lingpeng Kong, Ngai Wong. ParallelComp: Parallel long-context compressor for length extrapolation. *arXiv preprint arXiv:2502.14317*, 2025
+* Jing Xiong, Jianghan Shen, Chuanyang Zheng, Zhongwei Wan, Chenyang Zhao, **Chiwun Yang**, Fanghua Ye, Hongxia Yang, Lingpeng Kong, Ngai Wong. ParallelComp: Parallel long-context compressor for length extrapolation. **ICML 2025 Poster**, *arXiv preprint arXiv:2502.14317*, 2025
 * Jiangxuan Long\*, Zhao Song\*, and **Chiwun Yang**\*. Theoretical foundation of flow-based time series generation: provable approximation, generalization, and efficiency. *arXiv preprint arXiv:2503.14076*, 2025
 
 # 📖 Educations
 
 - *2021.09 - 2025.06*, School of Artificial Intelligence, Sun Yat-sen University.
 
-# 💻 Research Experience
+# 💻 Research & Work Experience
 
 - *2022.08 - 2024.02*, Research Assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en), advised by Dr. Nan Li.
 - *2022.10 - 2025.03*, Research Intern, [Zhao's Lab](https://www.youtube.com/@zhaosong2031) advised by Dr. Zhao Song.
 - *2024.10 - current*, Research Intern, [NGai's Lab, The University of Hong Kong (HKU)](https://www.eee.hku.hk/~nwong/), advised by Jing Xiong.
+- *2024.06 - current*, Machine Learning Engineer, [Sengine AI](https://sengine.ai/home).`
 
 # 📊 Service
 
-- ICLR 2025, ICLR 2025 Workshop BuildingTrust, COLM 2025
+- ICLR 2025, ICLR 2025 Workshop, COLM 2025

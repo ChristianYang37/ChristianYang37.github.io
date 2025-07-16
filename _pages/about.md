@@ -20,7 +20,7 @@ redirect_from:
 
 Hello, I'm Christian Yang (杨智桓 / Yang Chi Wun in Cantonese). I graduated with a Bachelor of Engineering in Artificial Intelligence from Sun Yat-sen University in Fall 2025. Currently, I'm taking a gap year working as an AI Engineer at [Sengine AI](https://sengine.ai/home), a promising startup, where I focus on Retrieval-Augmented Generation (RAG) and Multi-Agent Systems.
 
-During my undergraduate studies, I had the fortune of receiving academic guidance from Dr. Zhao Song and Dr. Yingyu Liang. My research interests include Large Language Models (training, inference, reasoning, and applications in physical science), AI Security, and Deep Learning Theory. I welcome discussions, critical feedback, or novel ideas related to my work—please don’t hesitate to reach out via email at christiannyang37 [at] gmail [dot] com.
+During my undergraduate studies, I had the fortune of receiving academic guidance from Dr. Zhao Song and Dr. Yingyu Liang. My research interests include Large Language Models (efficient training & inference, reasoning, and science of LLMs), AI Security, and Deep Learning Theory. I welcome discussions, critical feedback, or novel ideas related to my work—please don’t hesitate to reach out via email at christiannyang37 [at] gmail [dot] com.
 
 **I am now actively preparing for the next phase of my career and am seeking PhD student positions or on-site research internships commencing in Fall 2026. I am open to discussing potential opportunities and collaborations.**
 

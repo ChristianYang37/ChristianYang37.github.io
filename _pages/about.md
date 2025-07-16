@@ -16,9 +16,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am currently a fourth-year undergraduate student at Sun Yat-sen University, majoring in Artificial Intelligence. My research interests include but are not limited to Large Language Models, AI Security, and Deep Learning Theory.
+Hello, I'm Christian Yang (杨智桓 / Yang Chi Wun in Cantonese). I graduated with a Bachelor of Engineering in Artificial Intelligence from Sun Yat-sen University in Fall 2025. Currently, I'm taking a gap year working as an AI Engineer at [Sengine AI](https://sengine.ai/home), a promising startup, where I focus on Retrieval-Augmented Generation (RAG) and Multi-Agent Systems.
 
-# 📝 Publications / Selected Preprints
+During my undergraduate studies, I had the fortune of receiving academic guidance from Dr. Zhao Song and Dr. Yingyu Liang. My research interests include Large Language Models (training, inference, reasoning, and applications in physical science), AI Security, and Deep Learning Theory. If you have any problem with my papers or 
+
+Besides, I am actively seeking 
+
+# 📝 Publications & Selected Preprints
 
 \* denotes equal contribution in alphabetical order
 
@@ -45,4 +49,4 @@ Hi, I am currently a fourth-year undergraduate student at Sun Yat-sen University
 
 # 📊 Service
 
-- ICLR 2025, ICLR 2025 Workshop, COLM 2025
+- ICLR 2025, ICLR 2025 Workshop, ICML 2025, COLM 2025

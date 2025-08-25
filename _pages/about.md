@@ -29,7 +29,7 @@ During my undergraduate studies, I had the fortune of receiving academic guidanc
 \* denotes equal contribution in alphabetical order
 
 * Timothy Chu\*, Zhao Song\*, and **Chiwun Yang**\*. How to protect copyright data in optimization of large language models? **AAAI 2024 Poster**, *arXiv preprint arXiv:2308.12247*
-* Yingyu Liang\*, Zhenmei Shi\*, Zhao Song\*, and **Chiwun Yang**\*. Towards infinite-long prefix in transformer. **ICLR 2025 SCOPE Workshop Oral (Top 9% papers)**, *arXiv preprint arXiv:2406.14036*
+* Yingyu Liang\*, Zhenmei Shi\*, Zhao Song\*, and **Chiwun Yang**\*. Towards infinite-long prefix in transformer. **EMNLP 2025 & ICLR 2025 SCOPE Workshop Oral (Top 9% papers)**, *arXiv preprint arXiv:2406.14036*
 * Zhao Song\*, Jing Xiong\*, and **Chiwun Yang**\*. How sparse attention approximates exact attention? Your attention is naturally $n^C$-sparse. **ICLR 2025 SLLM Workshop Poster**, *arXiv preprint arXiv:2404.02690*
 * Yang Cao\*, Zhao Song\*, and **Chiwun Yang**\*. Video latent flow matching: Optimal polynomial projections for video interpolation and extrapolation. **ICLR 2025 DeLTa Workshop Poster**, *arXiv preprint arXiv:2502.00500*
 * Majid Daliri\*, Zhao Song\*, and **Chiwun Yang**\*. Unlocking the theory behind scaling 1-bit neural networks. **CPAL 2025 Poster**, *arXiv preprint arXiv:2411.01663*
@@ -51,4 +51,4 @@ During my undergraduate studies, I had the fortune of receiving academic guidanc
 
 # 📊 Service
 
-- ICLR 2025, ICLR 2025 Workshop, ICML 2025, COLM 2025
+- ICLR 2025, ICLR 2025 Workshop, ICML 2025, COLM 2025, AAAI 2026

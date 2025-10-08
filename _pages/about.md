@@ -52,4 +52,4 @@ During my undergraduate studies, I had the fortune of receiving academic guidanc
 
 # 📊 Service
 
-- ICLR 2025, ICLR 2025 Workshop, ICML 2025, COLM 2025, AAAI 2026
+- ICLR 2025 - 2026, ICLR 2025 Workshop, ICML 2025, COLM 2025, AAAI 2026, AISTATS 2026

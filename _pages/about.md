@@ -22,7 +22,7 @@ Hello, I'm Christian Yang (杨智桓 / Yang Chi Wun in Cantonese). I graduated w
 
 During my undergraduate studies, I had the fortune of receiving academic guidance from Dr. Zhao Song and Dr. Yingyu Liang. My research interests include Large Language Models (efficient training & inference, reasoning, and science of LLMs), AI Security, and Deep Learning Theory. I welcome discussions, critical feedback, or novel ideas related to my work—please don’t hesitate to reach out via email at christiannyang37 [at] gmail [dot] com.
 
-**I am now actively preparing for the next phase of my career. I am open to discussing potential opportunities and collaborations.**
+Currently, I am a Machine Learning Engineer at [Humanify](https://humanify.io/), where we are building an AI-native OS. AGI is coming, keep following us.
 
 # 📝 Publications & Selected Preprints
 
@@ -48,9 +48,9 @@ During my undergraduate studies, I had the fortune of receiving academic guidanc
 
 - *2022.08 - 2024.02*, Research Assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en), advised by Dr. Nan Li.
 - *2022.10 - 2025.03*, Research Intern, [Zhao's Lab](https://www.youtube.com/channel/UCcw-kSb-J1EW1jq07IGMs7g) advised by Dr. Zhao Song.
-- *2024.10 - current*, Research Intern, [NGai's Lab, The University of Hong Kong (HKU)](https://www.eee.hku.hk/~nwong/), advised by Jing Xiong.
-- *2025.06 - 2025.11*, Machine Learning Engineer, [Sengine AI](https://sengine.ai/home).`
+- *2024.10 - 2026.01*, Research Intern, [NGai's Lab, The University of Hong Kong (HKU)](https://www.eee.hku.hk/~nwong/), advised by Jing Xiong.
+- *2026.02 - current*, Machine Learning Engineer, [Humanify](https://humanify.io/).
 
 # 📊 Service
 
-- ICLR 2025 - 2026, ICLR 2025 Workshop, ICML 2025, COLM 2025, AAAI 2026, AISTATS 2026
+- ICLR 2025 - 2026, ICLR 2025 Workshop, ICML 2025 - 2026, COLM 2025 - 2026, AAAI 2026, AISTATS 2026

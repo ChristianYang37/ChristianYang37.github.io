@@ -7,8 +7,11 @@
 
 # Site Settings
 title                    : "Chiwun (Christian) Yang"
-description              : ""
+description              : "AI researcher working on efficient, trustworthy, and theoretically grounded machine learning."
+url                      : "https://christianyang37.github.io"
+baseurl                  : ""
 repository               : "ChristianYang37/ChristianYang37.github.io"
+social_preview_image     : "/images/og-card.png"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +26,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chiwun Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "<em><font size=1, color=grey>天将降大任于是人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾益其所不能</font></em>"
-  location         : "Guangzhou, China"
+  bio              : "AI researcher · Incoming CityUHK MSc AI student"
+  location         : "Hong Kong & Greater Bay Area"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LaAT8jwAAAAJ&hl=en"

@@ -1,56 +1,158 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+description: "Chiwun (Christian) Yang is an AI researcher working on efficient, trustworthy, and theoretically grounded machine learning."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class="anchor" id="about-me"></span>
 
-# 😄 About Me
+<section class="profile-hero">
+  <p class="profile-kicker">AI Researcher · Incoming MSc AI Student</p>
+  <h1>Building AI systems that are capable, efficient, and trustworthy.</h1>
+  <p class="profile-lead">Hello, I’m <strong>Chiwun (Christian) Yang</strong> (杨智桓; Yang Chi Wun in Cantonese). I work across machine learning theory and real-world AI systems, with a focus on large language models, efficient training and inference, AI security, and learning dynamics.</p>
+  <p>In September 2026, I will begin the <a href="https://www.cs.cityu.edu.hk/academic-programmes/msc-artificial-intelligence/admissions">MSc in Artificial Intelligence at City University of Hong Kong</a>. I received my BEng in Artificial Intelligence from Sun Yat-sen University in 2025.</p>
+  <div class="profile-actions" aria-label="Profile links">
+    <a class="profile-button profile-button--primary" href="https://scholar.google.com/citations?user=LaAT8jwAAAAJ&hl=en">Google Scholar</a>
+    <a class="profile-button" href="https://github.com/ChristianYang37">GitHub</a>
+    <a class="profile-button" href="/Blogs/">Blog</a>
+    <a class="profile-button" href="mailto:christiannyang37@gmail.com">Email</a>
+  </div>
+</section>
 
-Hello, I'm Christian Yang (杨智桓 / Yang Chi Wun in Cantonese). I graduated with a Bachelor of Engineering in Artificial Intelligence from Sun Yat-sen University in Fall 2025.
+<span class="anchor" id="research"></span>
 
-During my undergraduate studies, I had the fortune of receiving academic guidance from Dr. Zhao Song and Dr. Yingyu Liang. My research interests include Large Language Models (efficient training & inference, reasoning, and science of LLMs), AI Security, and Deep Learning Theory. I welcome discussions, critical feedback, or novel ideas related to my work—please don’t hesitate to reach out via email at christiannyang37 [at] gmail [dot] com.
+## Research
 
-Currently, I am a Machine Learning Engineer at [Humanify](https://humanify.io/), where we are building an AI-native OS. AGI is coming, keep following us.
+I am interested in mechanism-first questions at the intersection of LLMs, optimization, and systems. I especially enjoy projects that connect mathematical structure to measurable model behavior and working implementations.
 
-# 📝 Publications & Selected Preprints
+<div class="research-grid">
+  <article class="research-card">
+    <p class="research-card__index">01</p>
+    <h3>Efficient & Long-Context LLMs</h3>
+    <p>Sparse attention, KV-cache compression, parameter-efficient learning, and systems for longer, faster inference.</p>
+  </article>
+  <article class="research-card">
+    <p class="research-card__index">02</p>
+    <h3>Trustworthy & Secure AI</h3>
+    <p>Copyright-aware optimization, privacy and data recovery, and mathematically auditable AI behavior.</p>
+  </article>
+  <article class="research-card">
+    <p class="research-card__index">03</p>
+    <h3>Learning Dynamics & Theory</h3>
+    <p>Scaling laws, optimization dynamics, generalization, and the theoretical foundations of modern architectures.</p>
+  </article>
+</div>
 
-\* denotes equal contribution in alphabetical order
+<span class="anchor" id="publications"></span>
 
-* Timothy Chu\*, Zhao Song\*, and **Chiwun Yang**\*. How to protect copyright data in optimization of large language models? **AAAI 2024 Poster**, *arXiv:2308.12247*
-* Yingyu Liang\*, Zhenmei Shi\*, Zhao Song\*, and **Chiwun Yang**\*. Towards infinite-long prefix in transformer. **EMNLP 2025 & ICLR 2025 SCOPE Workshop Oral (Top 9% papers)**, *arXiv:2406.14036*
-* Jing Xiong, Jianghan Shen, Chuanyang Zheng, Zhongwei Wan, Chenyang Zhao, **Chiwun Yang**, Fanghua Ye, Hongxia Yang, Lingpeng Kong, Ngai Wong. ParallelComp: Parallel long-context compressor for length extrapolation. **ICML 2025 Poster**, *arXiv:2502.14317*
-* Yang Cao\*, Xiaoyu Li\*, Zhao Song\*, **Chiwun Yang**\*. Efficient k-Sparse Band–Limited Interpolation with Improved Approximation Ratio. **NeurIPS 2025 Poster**.
-* Zhao Song\*, Jing Xiong\*, and **Chiwun Yang**\*. How sparse attention approximates exact attention? Your attention is naturally $n^C$-sparse. **ICLR 2025 SLLM Workshop Poster**, *arXiv:2404.02690*
-* Yang Cao\*, Zhao Song\*, and **Chiwun Yang**\*. Video latent flow matching: Optimal polynomial projections for video interpolation and extrapolation. **ICLR 2025 DeLTa Workshop Poster**, *arXiv:2502.00500*
-* Majid Daliri\*, Zhao Song\*, and **Chiwun Yang**\*. Unlocking the theory behind scaling 1-bit neural networks. **CPAL 2025 Poster**, *arXiv:2411.01663*
-* Yekun Ke\*, Yingyu Liang\*, Zhenmei Shi\*, Zhao Song\*, and **Chiwun Yang**\*. Curse of attention: A kernel-based perspective for why transformers fail to generalize on time series forecasting and beyond. **CPAL 2025 Poster**, *arXiv:2412.06061*
-* Yichuan Deng\*, Zhao Song\*, Shenghao Xie\*, and **Chiwun Yang**\*. Unmasking transformers: A theoretical approach to data recovery via attention weights. *arXiv:2310.12462*, 2023
-* Jiangxuan Long\*, Zhao Song\*, and **Chiwun Yang**\*. Theoretical foundation of flow-based time series generation: provable approximation, generalization, and efficiency. *arXiv:2503.14076*, 2025
-* **Chiwun Yang**. Unifying Learning Dynamics and Generalization in Transformers Scaling Law. *arXiv:2512.22088*, 2025
+## Publications & Selected Preprints
 
-# 📖 Educations
+<p class="section-note"><strong>*</strong> denotes equal contribution where marked. For the complete and most current record, see <a href="https://scholar.google.com/citations?user=LaAT8jwAAAAJ&hl=en">Google Scholar</a>.</p>
 
-- *2021.09 - 2025.06*, School of Artificial Intelligence, Sun Yat-sen University.
+<ol class="publication-list">
+  <li>
+    <span class="publication-venue">AAAI 2024</span>
+    Timothy Chu*, Zhao Song*, and <strong>Chiwun Yang*</strong>.
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29741">How to Protect Copyright Data in Optimization of Large Language Models?</a>
+  </li>
+  <li>
+    <span class="publication-venue">EMNLP 2025</span>
+    Yingyu Liang*, Zhenmei Shi*, Zhao Song*, and <strong>Chiwun Yang*</strong>.
+    <a href="https://aclanthology.org/2025.emnlp-main.563/">Towards Infinite-Long Prefix in Transformer.</a>
+  </li>
+  <li>
+    <span class="publication-venue">ICML 2025</span>
+    Jing Xiong, Jianghan Shen, Chuanyang Zheng, Zhongwei Wan, Chenyang Zhao, <strong>Chiwun Yang</strong>, Fanghua Ye, Hongxia Yang, Lingpeng Kong, and Ngai Wong.
+    <a href="https://proceedings.mlr.press/v267/xiong25b.html">ParallelComp: Parallel Long-Context Compressor for Length Extrapolation.</a>
+  </li>
+  <li>
+    <span class="publication-venue">NeurIPS 2025</span>
+    Yang Cao*, Xiaoyu Li*, Zhao Song*, and <strong>Chiwun Yang*</strong>.
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/0f12b3c36a781120c4f60e90e855868d-Abstract-Conference.html">Efficient k-Sparse Band-Limited Interpolation with Improved Approximation Ratio.</a>
+  </li>
+  <li>
+    <span class="publication-venue">CPAL 2025</span>
+    Majid Daliri*, Zhao Song*, and <strong>Chiwun Yang*</strong>.
+    <a href="https://proceedings.mlr.press/v280/daliri25a.html">Unlock the Theory behind Scaling 1-bit Neural Networks.</a>
+  </li>
+  <li>
+    <span class="publication-venue">CPAL 2025</span>
+    Yekun Ke*, Yingyu Liang*, Zhenmei Shi*, Zhao Song*, and <strong>Chiwun Yang*</strong>.
+    <a href="https://proceedings.mlr.press/v280/ke25a.html">Curse of Attention: A Kernel-Based Perspective for Why Transformers Fail to Generalize on Time Series Forecasting and Beyond.</a>
+  </li>
+  <li>
+    <span class="publication-venue">ICLR 2025 SLLM Workshop</span>
+    Yichuan Deng, Zhao Song, Jing Xiong, and <strong>Chiwun Yang</strong>.
+    <a href="https://arxiv.org/abs/2404.02690">How Sparse Attention Approximates Exact Attention? Your Attention is Naturally n<sup>C</sup>-Sparse.</a>
+  </li>
+  <li>
+    <span class="publication-venue">ICLR 2025 DeLTa Workshop</span>
+    Yang Cao*, Zhao Song*, and <strong>Chiwun Yang*</strong>.
+    <a href="https://arxiv.org/abs/2502.00500">Video Latent Flow Matching: Optimal Polynomial Projections for Video Interpolation and Extrapolation.</a>
+  </li>
+  <li>
+    <span class="publication-venue">Preprint · 2023</span>
+    Yichuan Deng*, Zhao Song*, Shenghao Xie*, and <strong>Chiwun Yang*</strong>.
+    <a href="https://arxiv.org/abs/2310.12462">Unmasking Transformers: A Theoretical Approach to Data Recovery via Attention Weights.</a>
+  </li>
+  <li>
+    <span class="publication-venue">Preprint · 2025</span>
+    Jiangxuan Long*, Zhao Song*, and <strong>Chiwun Yang*</strong>.
+    <a href="https://arxiv.org/abs/2503.14076">Theoretical Foundation of Flow-Based Time Series Generation: Provable Approximation, Generalization, and Efficiency.</a>
+  </li>
+  <li>
+    <span class="publication-venue">Preprint · 2025</span>
+    <strong>Chiwun Yang</strong>.
+    <a href="https://arxiv.org/abs/2512.22088">Unifying Learning Dynamics and Generalization in Transformers Scaling Law.</a>
+  </li>
+</ol>
 
-# 💻 Research & Work Experience
+<span class="anchor" id="experience"></span>
 
-- *2022.08 - 2024.02*, Research Assistant, [Shenzhen Institute of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn/en), advised by Dr. Nan Li.
-- *2022.10 - 2025.03*, Research Intern, [Zhao's Lab](https://www.youtube.com/channel/UCcw-kSb-J1EW1jq07IGMs7g) advised by Dr. Zhao Song.
-- *2024.10 - 2026.01*, Research Intern, [NGai's Lab, The University of Hong Kong (HKU)](https://www.eee.hku.hk/~nwong/), advised by Jing Xiong.
-- *2026.02 - current*, Machine Learning Engineer, [Humanify](https://humanify.io/).
+## Education & Experience
 
-# 📊 Service
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">Sep 2026 – 2027</div>
+    <div><strong>MSc in Artificial Intelligence, City University of Hong Kong</strong><br><span class="timeline-meta">Incoming student · Department of Computer Science</span></div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2026</div>
+    <div><strong>Founding Engineer, <a href="https://humanify.io/">Humanify</a></strong><br><span class="timeline-meta">Worked on agent cognition and conversational AI, including ASR and TTS</span></div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">Oct 2024 – Jan 2026</div>
+    <div><strong>Research Intern, <a href="https://www.eee.hku.hk/~nwong/">The University of Hong Kong</a></strong><br><span class="timeline-meta">Long-context compression and efficient LLM inference with Ngai Wong’s group</span></div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">Oct 2022 – Mar 2025</div>
+    <div><strong>Research Intern, Zhao Song’s Lab</strong><br><span class="timeline-meta">Deep learning theory, optimization, and efficient transformers</span></div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">Sep 2021 – Jun 2025</div>
+    <div><strong>BEng in Artificial Intelligence, Sun Yat-sen University</strong><br><span class="timeline-meta">School of Artificial Intelligence</span></div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">Aug 2022 – Feb 2024</div>
+    <div><strong>Research Assistant, <a href="https://airs.cuhk.edu.cn/en">Shenzhen Institute of Artificial Intelligence and Robotics for Society</a></strong><br><span class="timeline-meta">Applied computer vision and industrial inspection</span></div>
+  </div>
+</div>
 
-- ICLR 2025 - 2026, ICLR 2025 Workshop, ICML 2025 - 2026, COLM 2025 - 2026, AAAI 2026, AISTATS 2026
+<span class="anchor" id="service"></span>
+
+## Academic Service
+
+Reviewer for NeurIPS 2026, AAAI 2026, ICLR (2025–2026), ICML (2025–2026), COLM (2025–2026), and AISTATS 2026, with additional reviewing service for an ICLR workshop and a CVPR workshop.
+
+<section class="contact-callout">
+  <p class="profile-kicker">Let’s talk</p>
+  <h2>Ideas, criticism, and collaborations are welcome.</h2>
+  <p>I am always happy to discuss research on efficient and trustworthy AI, especially work that connects theory with systems.</p>
+  <a class="profile-button profile-button--primary" href="mailto:christiannyang37@gmail.com">christiannyang37 [at] gmail [dot] com</a>
+</section>
+
+<p class="last-updated">Last updated: August 2026.</p>

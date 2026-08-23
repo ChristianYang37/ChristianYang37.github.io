@@ -146,7 +146,7 @@ I am interested in mechanism-first questions at the intersection of LLMs, optimi
 
 ## Academic Service
 
-Reviewer for NeurIPS 2026, AAAI 2026, ICLR (2025–2026), ICML (2025–2026), COLM (2025–2026), and AISTATS 2026, with additional reviewing service for an ICLR workshop and a CVPR workshop.
+Reviewer for NeurIPS 2026, AAAI (2026–2027), ICLR (2025–2026), ICML (2025–2026), COLM (2025–2026), and AISTATS 2026, with additional reviewing service for an ICLR workshop and a CVPR workshop.
 
 <section class="contact-callout">
   <p class="profile-kicker">Let’s talk</p>

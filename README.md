@@ -4,7 +4,7 @@ Source for Chiwun (Christian) Yang's academic homepage at [christianyang37.githu
 
 ## Content map
 
-- `_pages/about.md` — biography, research areas, publications, education, experience, and service
+- `_pages/about.md` — biography, research areas, publications, open-source projects, honors, education, experience, and service
 - `_config.yml` — site metadata and profile links
 - `_data/navigation.yml` — top navigation
 - `assets/css/main.scss` — theme imports and homepage-specific styles
